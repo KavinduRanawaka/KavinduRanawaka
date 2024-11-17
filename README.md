@@ -11,7 +11,7 @@
 <td width="50%" align="left">
   
 - 🌱 I’m currently learning **MERN**
-- 💬 Ask me about **MERN, MySQL, Data mining, python,HTML,Java Script,PHP**
+- 💬 Ask me about **MERN, MySQL, Data mining, python,HTML,Java Script,PHP,Tailwind CSS**
 
 - 📫 How to reach me **knranawakase@gmail.com**
 
