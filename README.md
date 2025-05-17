@@ -10,7 +10,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **QT**
 - 💬 Ask me about **MERN, MySQL, Data mining, python,HTML,Java Script,PHP,Tailwind CSS**
 
 - 📫 How to reach me **knranawakase@gmail.com**
