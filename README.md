@@ -11,7 +11,7 @@
 <td width="50%" align="left">
   
 - 🌱 I’m currently learning **QT and SPI**
-- 💬 Ask me about **MERN, MySQL, Data mining, python,HTML,Java Script,PHP,Tailwind CSS**
+- 💬 Ask me about **MERN, MySQL, Data mining, python,HTML,Java Script,PHP,Tailwind CSS,QT(CUTE)**
 
 - 📫 How to reach me **knranawakase@gmail.com**
 
